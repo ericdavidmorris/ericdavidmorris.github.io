@@ -1,7 +1,25 @@
 ---
-title: "Holy cow!"
+title: "Eric David Morris"
 ---
 
-### I have a webpage!
 
-And I can put all kinds of stuff on it!
+### MPH Candidate in Epidemiology
+### Columbia University Mailman School of Public Health
+
+
+<img src="images/itme.jpg" style = "width: 65%; border: 10px solid;" >
+
+
+
+### About
+
+Words Words Words
+
+### Contact Information
+
+Eric Morris
+68 Bergen Street 2A
+Brooklyn, New York 10021
+
+Email: eric.morris@columbia.edu
+Phone: 703-395-9871
