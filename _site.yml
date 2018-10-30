@@ -8,7 +8,7 @@ navbar:
     - text: "Experience"
       href: exp.html
     - text: "Plotly"
-      href: papers.html
+      href: plotly.html
   right:
     - icon: ai-cv ai-lg
       href: ./images/EricMorrisCV_102018.pdf

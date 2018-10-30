@@ -9,15 +9,16 @@ MPH Candidate in Epidemiology
 Columbia University Mailman School of Public Health
 
 
-<center> <img src="images/itme.jpg"  style = "width: 70%; border: 10px solid;"> <br>
+<img src="images/itme.jpg" align= "middle" style = "width: 70%; border: 10px solid;>
 
 
 
 #### About
 
-Words Words Words
+I am second-year MPH student in the Department of Epidemiology, 
 
 #### Contact Information
+
 
 Eric Morris
 
@@ -25,11 +26,13 @@ Eric Morris
 
 Brooklyn, New York 10021
 
- 
+
 
 Email: eric.morris@columbia.edu
 
 Phone: 703-395-9871
+
+
 
 
 
