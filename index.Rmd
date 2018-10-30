@@ -9,13 +9,20 @@ MPH Candidate in Epidemiology
 Columbia University Mailman School of Public Health
 
 
-<img src="images/itme.jpg" align= "middle" style = "width: 70%; border: 10px solid;>
+<center> 
 
+<img src="images/itme.jpg" style = "width: 70%; border: 10px solid;>
+
+</center>
 
 
 #### About
 
-I am second-year MPH student in the Department of Epidemiology, 
+I am currently second-year MPH student in the [Department of Epidemiology](https://www.mailman.columbia.edu/become-student/departments/epidemiology), with a certificate in Advanced Epidemiology. I recieved from the [University of Virginia](http://www.virginia.edu/) in 2013 with a BA in the interdisciplinary [Distinguished Majors Program in Human Biology](http://www.virginia.edu/humanbiology/Home_page/home_page.htm).
+
+For a full breakdown of my work and research experience, please find my full *Curriculum Vitae* at the top right of this webpage. 
+
+
 
 #### Contact Information
 
