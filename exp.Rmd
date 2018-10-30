@@ -1,15 +1,18 @@
 ---
-title: "CV/Experience"
+title: "Experience"
+
+output:
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
-## *Curriculum Vitae*
-
-### Education 
+## Education 
 
 Columbia Mailman School of Public Health
 
 University of Virginia
 
-### Work Experience
+## Work Experience
 
 Words
