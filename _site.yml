@@ -8,6 +8,8 @@ navbar:
     - text: "CV/Experience"
       href: exp.html 
     - icon: fa-envelope fa-lg
+      href: "/images/Eric Morris CV 102018.pdf"
+    - icon: fa-envelope fa-lg
       href: mailto:<edm2152@cumc.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/ericdavidmorris/

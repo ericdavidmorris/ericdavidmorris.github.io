@@ -28,3 +28,7 @@ Brooklyn, New York 10021
 Email: eric.morris@columbia.edu
 
 Phone: 703-395-9871
+
+
+
+This is a personal website built in October 2018 as part of the [Data Science course](http://p8105.com/index.html) in the Biostatistics Department of the Columbia University Mailman School of Public Health. 
