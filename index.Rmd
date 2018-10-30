@@ -2,20 +2,22 @@
 title: "Eric David Morris"
 ---
 
+<link rel="stylesheet" href="academicons/css/academicons.min.css"/>
 
-### MPH Candidate in Epidemiology
-### Columbia University Mailman School of Public Health
+MPH Candidate in Epidemiology
 
-
-<img src="images/itme.jpg" style = "width: 65%; border: 10px solid;" >
-
+Columbia University Mailman School of Public Health
 
 
-### About
+<center> <img src="images/itme.jpg"  style = "width: 70%; border: 10px solid;"> <br>
+
+
+
+#### About
 
 Words Words Words
 
-### Contact Information
+#### Contact Information
 
 Eric Morris
 
