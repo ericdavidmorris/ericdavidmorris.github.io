@@ -48,3 +48,6 @@ Column {data-width=350}
 ```{r}
 
 ```
+
+
+<link rel="stylesheet" href="academicons/css/academicons.min.css"/>
