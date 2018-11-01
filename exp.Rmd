@@ -30,20 +30,20 @@ Teaching Assistant -  Columbia University Mailman School of Public Health, Offic
 
 * TA for Quantitative Foundations in the Core Curriculum at the Mailman School of Public Health. Facilitate a weekly lab section for 22 students throughout Fall semester.
 
-Epi Scholar Intern New York City Department of Health and Mental Hygiene, Bureau of HIV/AIDS Prevention and Control, Long Island City, NY (May 2018 – September 2018)
+Epi Scholar Intern -  New York City Department of Health and Mental Hygiene, Bureau of HIV/AIDS Prevention and Control, Long Island City, NY (May 2018 – September 2018)
 
 * Tasked with performing descriptive, univariate, bivariate, and multivariate data analyses to identify associations between clinic characteristics and HIV care outcomes as part of analysis on COTA's 2016 HIV Clinic Survey. Identified areas for technical assistance intervention at the clinic level and created resources for site visits.
 
-Health and Research Training Program (HRTP) Intern New York City Department of Health and Mental Hygiene, Department of Epidemiology, Long Island City, NY (March 2018 – May 2018)
+Health and Research Training Program (HRTP) Intern -  New York City Department of Health and Mental Hygiene, Department of Epidemiology, Long Island City, NY (March 2018 – May 2018)
 
 * Used SQL and SAS to analyze race and ethnicity variables in the inpatient portion of the New York State SPARCS data set
 
-Senior Research Aide Weill Cornell Medicine Department of Neurology and Neuroscience Weill Cornell Medical Center, New York, NY (October 2015 – February 2018)
+Senior Research Aide - Weill Cornell Medicine Department of Neurology and Neuroscience Weill Cornell Medical Center, New York, NY (October 2015 – February 2018)
 
 * Oversaw the Judith Jaffe Multiple Sclerosis Center’s imaging pipeline and database consisting of 1,200 patients and 5,000+ MRI scans.
 * Performed several MRI longitudinal analysis studies. Used FreeSurfer to process and analyze brain MRI image volumetrics and visually inspect cortical surface reconstruction and cortical segmentation. Performed myelin water fraction map, lesion map, and localized region of interest map analysis.
 
-Clinical Research Coordinator Weill Cornell Department of Neurology and Neuroscience Weill Cornell Medical Center, New York, NY (July 2013 – October 2015)
+Clinical Research Coordinator - Weill Cornell Department of Neurology and Neuroscience Weill Cornell Medical Center, New York, NY (July 2013 – October 2015)
 
 * Oversaw 25+ pharmaceutical sponsored, federally funded, and investigator initiated clinical research studies in the multiple sclerosis, epilepsy and peripheral neuropathy centers.
 * Maintained clinical databases, performed patient recruitment, obtained informed consent, performed phlebotomy, and submitted studies for IRB approval
