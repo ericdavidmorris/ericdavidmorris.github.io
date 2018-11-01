@@ -15,14 +15,36 @@ library(viridis)
 library(p8105.datasets)
 library(plotly)
 library(flexdashboard)
+
 ```
-
-
-
-
 
 
 ```{r}
-rmarkdown::render("dashboard_template.Rmd", output_format = "flex_dashboard")
+
 ```
 
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+
+```
+
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+
+```
+
+### Chart C
+
+```{r}
+
+```
