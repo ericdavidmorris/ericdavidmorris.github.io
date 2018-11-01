@@ -15,12 +15,19 @@ library(viridis)
 library(p8105.datasets)
 library(plotly)
 library(flexdashboard)
-
 ```
 
 
-```{r}
-
+```{r, echo = FALSE}
+ny_noaa_data = 
+  ny_noaa %>% 
+  janitor::clean_names() %>% 
+  separate(date, c("year", "month", "day"), sep = "-") %>% 
+  mutate(tmax = as.numeric(tmax) / 10,
+         tmin = as.numeric(tmin) / 10,
+         prcp = prcp /10,
+         month = month.name[as.integer(month)],
+         year = as.numeric(year))
 ```
 
 
@@ -29,8 +36,12 @@ Column {data-width=650}
 
 ### Chart A
 
-```{r}
-
+```{r, echo = FALSE}
+ny_noaa_data %>% 
+  filter(month %in% c("June", "November")) %>% 
+  group_by(year, month) %>% 
+  summarize(mean_max_temp = mean(tmax, na.rm = TRUE)) %>% 
+  plot_ly(x = ~year, y = ~mean_max_temp, type = "scatter", mode = "markers", color = ~month)
 ```
 
 
@@ -39,14 +50,24 @@ Column {data-width=350}
 
 ### Chart B
 
-```{r}
-
+```{r, echo = FALSE}
+ny_noaa_data %>% 
+  filter(month %in% c("November", "December", "January", "February", "March")) %>% 
+  group_by(year, month) %>% 
+  summarize(mean_snow_mm = mean(snow, na.rm = TRUE)) %>% 
+  mutate(month = fct_reorder(month, mean_snow_mm)) %>% 
+  plot_ly(y = ~mean_snow_mm, color = ~month, type = "box", colors = "Set2")
 ```
 
 ### Chart C
 
-```{r}
-
+```{r, echo = FALSE}
+ny_noaa_data %>% 
+  filter(month %in% c("March", "April", "May", "June")) %>% 
+  group_by(year, month) %>% 
+  summarize(mean_prcp_mm = mean(prcp, na.rm = TRUE)) %>% 
+  mutate(month = fct_reorder(month, mean_prcp_mm)) %>% 
+  plot_ly(y = ~mean_prcp_mm, color = ~month, type = "box", colors = "Set3")
 ```
 
 
