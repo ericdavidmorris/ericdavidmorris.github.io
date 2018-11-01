@@ -34,7 +34,7 @@ ny_noaa_data =
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A
+### Chart A: New York's Mean Maximum Temperature (°C) in June and November from 1981-2010
 
 ```{r, echo = FALSE}
 ny_noaa_data %>% 
@@ -48,7 +48,7 @@ ny_noaa_data %>%
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Chart B: New York's Mean Snowfall (mm) in November-March from 1981-2010
 
 ```{r, echo = FALSE}
 ny_noaa_data %>% 
@@ -59,7 +59,7 @@ ny_noaa_data %>%
   plot_ly(y = ~mean_snow_mm, color = ~month, type = "box", colors = "Set2")
 ```
 
-### Chart C
+### Chart C: New York's Mean Precipiation (mm) in March-June from 1981-2010
 
 ```{r, echo = FALSE}
 ny_noaa_data %>% 
