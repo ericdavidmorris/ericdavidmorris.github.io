@@ -1,0 +1,28 @@
+---
+title: "plotly"
+author: "Eric Morris"
+date: "11/1/2018"
+output:
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(viridis)
+library(p8105.datasets)
+library(plotly)
+library(flexdashboard)
+```
+
+
+
+
+
+
+```{r}
+rmarkdown::render("dashboard_template.Rmd", output_format = "flex_dashboard")
+```
+

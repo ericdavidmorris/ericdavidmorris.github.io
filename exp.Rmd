@@ -21,11 +21,11 @@ Bachelor of Arts, Human Biology Distinguished Majors Program
 
 ## Professional and Research Experience
 
-Independent Consultant - New York City Department of Health and Mental Hygiene, Bureau of HIV/AIDS Prevention and Control (September 2018 - Present)
+Independent Consultant - New York City Department of Health and Mental Hygiene, Bureau of HIV/AIDS Prevention and Control, Long Island City, NY (September 2018 - Present)
 
  * Supporting consultant for the Clinical Operations and Technical Assistance (COTA) program, part of the Bureau of HIV/AIDS Prevention and Control. Tasked with formulating research questions, conducting data analyses, and developing manuscripts on data from COTA's 2016 HIV Clinic Survey. 
  * Additionally performing analysis on 2015 and 2016 Medical Monitoring Project (MMP) data, in support of an upcoming grant proposal researching Aging with HIV in NYC 
- 
+
 Teaching Assistant -  Columbia University Mailman School of Public Health, Office of Educational Programs, Research Methods and Applications Studio (August 2018 – Present) 
 
 * TA for Quantitative Foundations in the Core Curriculum at the Mailman School of Public Health. Facilitate a weekly lab section for 22 students throughout Fall semester.
@@ -33,3 +33,27 @@ Teaching Assistant -  Columbia University Mailman School of Public Health, Offic
 Epi Scholar Intern New York City Department of Health and Mental Hygiene, Bureau of HIV/AIDS Prevention and Control, Long Island City, NY (May 2018 – September 2018)
 
 * Tasked with performing descriptive, univariate, bivariate, and multivariate data analyses to identify associations between clinic characteristics and HIV care outcomes as part of analysis on COTA's 2016 HIV Clinic Survey. Identified areas for technical assistance intervention at the clinic level and created resources for site visits.
+
+Health and Research Training Program (HRTP) Intern New York City Department of Health and Mental Hygiene, Department of Epidemiology, Long Island City, NY (March 2018 – May 2018)
+
+* Used SQL and SAS to analyze race and ethnicity variables in the inpatient portion of the New York State SPARCS data set
+
+Senior Research Aide Weill Cornell Medicine Department of Neurology and Neuroscience Weill Cornell Medical Center, New York, NY (October 2015 – February 2018)
+
+* Oversaw the Judith Jaffe Multiple Sclerosis Center’s imaging pipeline and database consisting of 1,200 patients and 5,000+ MRI scans.
+* Performed several MRI longitudinal analysis studies. Used FreeSurfer to process and analyze brain MRI image volumetrics and visually inspect cortical surface reconstruction and cortical segmentation. Performed myelin water fraction map, lesion map, and localized region of interest map analysis.
+
+Clinical Research Coordinator Weill Cornell Department of Neurology and Neuroscience Weill Cornell Medical Center, New York, NY (July 2013 – October 2015)
+
+* Oversaw 25+ pharmaceutical sponsored, federally funded, and investigator initiated clinical research studies in the multiple sclerosis, epilepsy and peripheral neuropathy centers.
+* Maintained clinical databases, performed patient recruitment, obtained informed consent, performed phlebotomy, and submitted studies for IRB approval
+
+## Research Publications
+
+Chiang GC, Hu J, **Morris E**, Wang Y, Gauthier SA. Quantitative susceptibility mapping of the thalamus: Am J Neuroradiol relationships with thalamic volume, total gray matter volume, and T2 lesion burden. *AJNR*. 2018 Jan 25. doi:10.3174/ajnr.A5537
+
+Al-Kawaz M, Monohan E, **Morris E**, Perumal JS, Nealon N, Vartanian T, Gauthier SA. Differential Impact of Multiple Sclerosis on Cortical and Deep Gray Matter Structures in African Americans and Caucasian Americans. *J Neuroimaging*. 2017 May;27(3):333-338. doi:10.1111/jon.12393 Epub 2016 Sep 16.
+
+Pandya S, Kauzner U, **Morris E**, Nguyen T, Nealon N, Perumal JS, Vartanian T, Wang Y, Gauthier SA. Quantitative susceptibility mapping identifies inflammation in a subset of chronic multiple sclerosis lesions. Manuscript accepted by *Brain* 10/5/2018, reference # BRAIN-2018-00491
+
+Kuceyeski A, Monohan E, **Morris E**, Fujimoto K, Vargas-Deming W, Gauthier SA. Baseline biomarkers of connectome disruption and atrophy predict future processing speed in early multiple sclerosis. *Neuroimage Clin.* 2018; 19: 417–424. Published online 2018 May 8. doi:10.1016/j.nicl.2018.05.003
