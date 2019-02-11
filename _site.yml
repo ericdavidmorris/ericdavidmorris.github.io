@@ -11,7 +11,7 @@ navbar:
       href: plotly.html
   right:
     - icon: ai-cv ai-lg
-      href: ./images/EricMorrisCV_102018.pdf
+      href: ./images/EricMorrisCV_012019.pdf
     - icon: fa-envelope fa-lg
       href: mailto:<edm2152@cumc.columbia.edu>
     - icon: fa-github fa-lg

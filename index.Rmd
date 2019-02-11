@@ -6,7 +6,7 @@ MPH Candidate in Epidemiology
 
 Columbia University Mailman School of Public Health
 
-<img src="images/itme.jpg" style = "width: 70%; border: 10px solid; display: block; margin-left: auto; margin-right: auto">
+<img src="images/itme2.jpg" style = "width: 70%; border: 10px solid; display: block; margin-left: auto; margin-right: auto">
 
 
 
